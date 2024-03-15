@@ -8,6 +8,6 @@ export default {
     emitter.emit('onChange', { value });
   },
   hello() {
-    return 'Hello world! 👋';
+    return 'Hello Rokas! 👋';
   },
 };
