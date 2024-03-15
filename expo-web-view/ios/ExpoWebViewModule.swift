@@ -6,7 +6,6 @@ public class ExpoWebViewModule: Module {
 
     View(ExpoWebView.self) {
       Events("onLoad")
-
       Prop("url") { (view, url: URL) in
         if view.webView.url != url {
           let urlRequest = URLRequest(url: url)
