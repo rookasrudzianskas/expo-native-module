@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "expo-settings",
+    "slug": "expo-settings",
+    "version": "0.1.0",
+    "description": "My new module",
+    "sdkVersion": "50.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.rooookas.exposettings"
+    }
+  }
+}
