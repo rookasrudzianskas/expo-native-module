@@ -1,6 +1,6 @@
 # expo-settings
 
-My new module
+My new module.
 
 # API documentation
 
